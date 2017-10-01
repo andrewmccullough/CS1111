@@ -13,7 +13,7 @@ def median (a, b, c):
     return result
 
 def rms (a, b, c):
-    squares = (a ** 2 + b ** 2 + c ** 2) / 3
+    squares = mean(a ** 2, b ** 2, c ** 2)
     result = math.sqrt(squares)
     return result
 
