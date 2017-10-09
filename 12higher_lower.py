@@ -20,10 +20,10 @@ while correct == False and g < guesses:
         correct = True
     elif answer > guess:
         if g < guesses:
-            print("The number is greater than that.")
+            print("The number is higher than that.")
     elif answer < guess:
         if g < guesses:
-            print("The number is less than that.")
+            print("The number is lower than that.")
 
 if correct == True:
     print("You win!")
