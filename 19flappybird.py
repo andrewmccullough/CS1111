@@ -41,7 +41,7 @@ def tick (keys):
 
         if counter % 50 == 0:
             start_break = random.randint(100, 300)
-            break_height = random.randint(125, 250)
+            break_height = random.randint(200, 350)
 
             top_wall = gamebox.from_color(camera.x + 600, start_break / 2, "white", 10, start_break)
             walls.append(top_wall)
@@ -73,7 +73,7 @@ def tick (keys):
     else:
         currently_at = camera.x
 
-        message = "You died when you " + CoD + ". Your score was " + str(counter) + ". Press q to quit."
+        message = "You died when you " + CoD + ". Your score was " + str(round(counter / 30)) + ". Press q to quit."
 
         score = gamebox.from_text(currently_at, 300, message, "Arial", 30, "green")
         camera.clear("black")
