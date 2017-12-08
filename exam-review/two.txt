@@ -1,0 +1,8 @@
+Here is some
+text that I can
+compare with
+another file....
+
+Even with a
+blank thingy!
+And an extra line!

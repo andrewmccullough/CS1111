@@ -1,0 +1,835 @@
+ 
+
+<!DOCTYPE html> <html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="http://data.richmond.com/salaries/2016/state/" />
+	<meta property="og:image" content="https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/6/70/670cab7a-9f59-11e4-aeb8-6f8cec5c88e9/59efa3f3899bc.image.jpg" />
+	<meta property="og:image:width" content="920" />
+	<meta property="og:image:height" content="505" />
+	<meta property="og:title" content="2016-17 salaries of Virginia state employees" />
+	<meta property="og:description" content="The Richmond Times-Dispatch obtained state employees’ names, job titles and salaries using the state’s Freedom of Information statute." />
+	<meta property="og:site_name" content="Richmond Times-Dispatch" />
+   
+   <link rel="icon" type="image/png" href="/media/salaries/richmond-logo.png">
+   
+    <title>Teresa Sullivan salary - President University Of Virginia - 2016_University of Virginia -  - Richmond.com - Richmond Times-Dispatch</title>
+
+    <!-- Bootstrap base layer -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    
+    
+    <!-- Font Awesome -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">    
+    
+	<!-- Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
+	
+	<!-- jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>    
+
+
+	<!-- Underscore -->
+	<script src="/media/salaries/js/underscore-min.js"></script>
+	
+	
+	<!-- Richmond.com -->
+	<link rel="stylesheet" href="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/live/components/core_base_navigation/resources/styles/navigation.core.css?_dc=1437139746" />
+	<link rel="stylesheet" href="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/live/components/core_base_navigation/resources/styles/navigation.drop.css?_dc=1437139746" />
+	<link rel="stylesheet" href="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/live/components/core_theme_simplicity/resources/styles/simplicity.css?_dc=1437139849" />
+	<link rel="stylesheet" href="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/live/global/resources/styles/_site/site.css?_dc=1437146000" />
+	<link rel="stylesheet" href="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/live/global/resources/styles/_site/portal.css?_dc=1434993010" />
+
+	<!-- 300 --><!-- 300 --><!-- 400 --><!-- 400 --><!-- 600 --><!-- 600 --><!-- 700 --><!-- 700 --><!-- 800 --><!-- 800 -->
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
+	<!-- 300 --><!-- 300 --><!-- 700 --><!-- 700 -->
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+	
+	
+	<!-- Main CSS file -->
+	<link href="/media/salaries/css/salaries-base.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+	
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "19114373" });
+	  (function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=19114373&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+
+	
+	
+<div class="hidden-sm hidden-xs">
+
+<div id="sup-header"">
+        <div class="small-shadow">
+            
+            
+            
+            <div class="row">
+			<div class="col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4" /*style="border: solid; border-width: 2px; "*/><a href="http://www.richmond.com"><img src="/media/salaries/rtd_mast.png" style="width: 100%; margin: 0px; margin-top: 30px; margin-bottom: 15px; " title="Richmond.com" alt="Richmond.com" /></a></div>
+			</div>
+			<div id="extra-nav">
+                <div id="blox-user-panel-minimal-loading" class="" style="display: none;"></div>
+                
+                <!-- <ul class="extra-nav-list" style="list-style: none;">
+                     
+                         <li><a href="https://richmond-dot-com.bloxcms-ny1.com/users/admin/profile/">Log In</a></li>
+                         <li><a href="http://www.richmond.com/subscriber-services/">Sign Up</a></li>
+						 
+					<li><a href="http://www.richmond.com/subscriber-services/">Subscriber Services</a></li> 
+                    <li><a href="http://www.richmond.com/eedition/">E-EDITION</a></li>       
+                    <li><a href="http://richmond.upickem.net/engine/Registration.aspx?contestid=75257">EMAIL NEWSLETTERS</a></li>                        
+                    <li><a href="http://www.richmond.com/contact-us/">CONTACT US</a></li>
+                    <li><a href="http://www.richmond.com/classifieds/">Classifieds</a></li>
+                    <li><a href="http://www.richmond.com/marketplace/">Find Local</a></li>
+                    <li><a href="http://www.richmond.com/richmond-drives/">Cars</a></li>
+                    <li><a href="http://www.richmond.com/realestate/?mode=list">Homes</a></li>
+                    <li><a href="http://www.richmond.com/jobs/">Jobs</a></li>
+                    <li><a href="http://www.richmond.com/advertise/">Advertise</a></li>
+                </ul> -->
+                <!-- <div class="clear"></div> -->
+            </div>
+       </div>
+<!-- default -->
+<div class="clear"></div>
+</div>
+
+<div id="blox-header-vertical-nav" class="blox-transparency">
+ <div id="limited-header">
+ 
+		<h1 class="vcard blox-transparency"><a href="http://www.richmond.com/" class="fn url org blox-transparency" rel="index"></a></h1>
+               
+            
+               <div class="clear"></div></div>
+
+	</div>
+	
+	<div class="clear"></div>
+	
+	<div id="main-nav-container"  style="margin-bottom: 15px;">
+            <h2 id="nav-full-width-logo"><a href="http://www.richmond.com/">Richmond Times-Dispatch</a></h2>
+            <div id="main-nav" class="navigation main nav-depth-0 drop    ">
+ 
+                <div id="tncms-region-nav-main_nav" class="tncms-region-nav">
+					<!-- PLEASE REMOVE AFTER A NEW HEADER HAS BEEN ADDED. <ul id="main_nav" class="navigation main nav-depth-1 drop hover single_bar normal" style="padding-left: 0;">
+					
+						<li class="nav-main-item-news nav-left"><a href="http://www.richmond.com/news">News</a></li>
+						
+						<li class="nav-main-item-business nav-left"><a href="http://www.richmond.com/business/">Business</a></li>
+						
+						<li class="nav-main-item-entertainment nav-left"><a href="http://www.richmond.com/entertainment/">Entertainment</a></li>
+						
+						<li class="nav-main-item-events nav-left"><a href="http://www.richmond.com/events/">Events</a></li> 
+						
+						<li class="nav-main-item-food-drink nav-left"><a href="http://www.richmond.com/food-drink/">Food &amp; Drink</a></li>
+						
+						<li class="nav-main-item-sports nav-left"><a href="http://www.richmond.com/sports/">Sports</a></li> 
+						
+						<li class="nav-main-item-video nav-left"><a href="http://video.richmond.com/">Video</a></li> 
+						
+						<li class="nav-main-item-viewpoints nav-left"><a href="http://www.richmond.com/opinion">Viewpoints</a></li> 
+						
+						<li class="nav-main-item-contests nav-left"><a href="http://www.richmond.com/contests/">Contests</a></li> 
+						
+						<li class="nav-main-item-weather nav-left"><a href="http://www.richmond.com/weather">Weather</a></li> 
+						
+						<li class="nav-main-item-all-sections nav-left"><a href="http://www.richmond.com/all-sections/">All Sections</a></li> 
+					</ul>
+		
+				<div class="clear"></div> -->
+		
+				</div>
+                
+				<div class="clear"></div>
+            
+			</div>
+            
+			<div class="clear"></div>
+	</div>
+	
+</div>
+
+<div class="topper hidden-md hidden-lg hidden-xl">
+
+		<a href="http://richmond.com?ref=salaries"><img src="/media/salaries/richmond-logo.png" style="width: 20px; margin: 10px;" title="Richmond.com" alt="Richmond.com" /><span class="small text-muted"><b>Richmond.com</b></a>
+
+</div>
+	
+	
+<!-- timestamp 3rd November 2017 19:48 Nov. 3, 2017, 7:48 p.m. -->	
+<!-- 119 -->
+<!-- state -->
+
+	<style>
+		.legitem {margin-bottom:5px; font-size:0.8em; text-transform:uppercase; padding:3px;}
+	</style>
+		
+
+	
+
+	<meta property="og:title" content="Teresa Sullivan - 2016_University of Virginia" />
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="Job title: President University of Virginia<br /> 2016 total gross pay: $754,830" />
+	<meta property="og:image" content="" />
+	<meta property="og:site_name" content="Richmond.com Public Salaries" />
+
+
+
+</head>
+
+
+<body>
+
+
+	
+
+	<div class="jumbotron">
+	<div class="container">
+		<h3><b><a href="/salaries/2016/state">2016-17 State of Virginia salaries</a></b> / <a id="persongovt" href="/salaries/2016/state/university-of-virginia">University of Virginia</a></h3>
+	</div>
+	</div>
+
+
+
+	<div class="container" style="margin-bottom: 50px;">
+
+		<div class="col-md-7">
+
+		<!-- row1 -->
+		<div class="row">
+		<div class="col-sm-12">	
+			
+
+				<h1><b>
+					
+						<span id="personhed">Teresa Sullivan</span>
+					 
+					
+					<br />
+					<span class="small text-muted" id="personjob">President University of Virginia</span>
+			
+				</b></h1>
+			
+				
+				
+			
+	
+		</div>
+		</div>
+
+		<!-- row2 -->
+		<div class="row">
+			
+			
+			<div class="col-md-4 pay">
+			
+				
+					<img style="width: 100%;" src="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/3/1b/31bf931b-38c0-529f-9a2e-ce4e2bfe8155/51cf9d998f85c.image.jpg" alt="Teresa Sullivan" />
+				
+
+			
+			
+				<div class="well">
+					<p class="text-muted">2016-17 total compensation</p>
+					<h2 class="pay" id="paytotal">$754,830</h2>
+					<p class="text-muted">Pay components</p>	
+					
+					 <script type="text/html" id="pay_temp">
+                    <% _.each( _.sortBy(pay, 'name'), function( paytype ){ %>
+                    <p class="small" style="text-align:left; margin-bottom:0; margin:15px 0 5px 0;"><%= paytype.name %>: $<%= addCommas(paytype.amount) %></p>
+                        <div style="margin:0; background:#eee; height:20px;">
+                        <div style="margin:0; float:left; background:#337ab7; height:100%; width:<%= getPct(paytype.amount, 754830.00) %>%;"></div>
+                        </div>
+                    <% }); %>
+                    </script>
+                    <div id="bars"></div>
+					
+					
+				</div>
+			
+			</div>	
+
+			<div class="col-md-8">		
+				
+				<table class="table">
+					<thead><td></td></thead>
+				
+					<tbody>		
+						<tr><td>University of Virginia rank</td><td>1 of 7,927</td></tr>
+        				<tr><td>% of University of Virginia median</td><td>1191%</td></tr>
+						<tr><td>Work location</td><td>Charlottesville</td></tr>
+						<tr><td>Hire date</td><td>8/1/2010</td></tr>
+					</tbody>	
+				</table>
+				
+				
+				<hr />
+				<p class="small"><b>Comments</b></p>
+				<p class="small text-muted">$15,000  — Vehicle;</p>
+				
+				
+				
+            </div>
+
+		</div><!-- end row2 -->
+		</div><!-- end col-md-7 -->
+
+		<div class="col-md-4 col-md-offset-1">
+		
+			<div class="well">
+
+				
+				<h4>More University of Virginia employees</h4>
+		
+				<table class="table">
+			
+					<thead>
+						<tr><th>Name</th><th>Total pay</th></tr>
+					</thead>
+				
+					<tbody>
+						
+						<tr>
+							<td><a href="teresa-sullivan">Teresa Sullivan</a></td>
+							<td>$754,830</td>
+						</tr>
+						
+						<tr>
+							<td><a href="jayakrishna-ambati">Jayakrishna Ambati</a></td>
+							<td>$590,400</td>
+						</tr>
+						
+						<tr>
+							<td><a href="irving-kron">Irving Kron</a></td>
+							<td>$561,099</td>
+						</tr>
+						
+						<tr>
+							<td><a href="robert-anae">Robert Anae</a></td>
+							<td>$550,000</td>
+						</tr>
+						
+						<tr>
+							<td><a href="scott-beardsley">Scott Beardsley</a></td>
+							<td>$540,800</td>
+						</tr>
+						
+						<tr>
+							<td><a href="patrick-hogan">Patrick Hogan</a></td>
+							<td>$501,600</td>
+						</tr>
+						
+						<tr>
+							<td><a href="ian-baucom">Ian Baucom</a></td>
+							<td>$500,000</td>
+						</tr>
+						
+						<tr>
+							<td><a href="bronco-mendenhall">Bronco Mendenhall</a></td>
+							<td>$500,000</td>
+						</tr>
+						
+						<tr>
+							<td><a href="thomas-loughran">Thomas Loughran</a></td>
+							<td>$497,900</td>
+						</tr>
+						
+						<tr>
+							<td><a href="carl-zeithaml">Carl Zeithaml</a></td>
+							<td>$472,199</td>
+						</tr>
+						
+					</tbody>
+					</table>
+				
+				
+
+        		<a href="/salaries/2016/state/university-of-virginia">See all University of Virginia employees</a>
+		</div>
+		
+		
+		
+			<div class="well">
+
+				<h4><i class="fa fa-folder-open-o"></i> Other agencies</h4>
+        		
+			                <select class="form-control" onchange="if (this.value) window.location.href='/salaries/' + this.value">
+                		                <option value='' disabled='disabled' selected='selected'>Select an agency</option>
+                		                
+                        		        <option value="2016/state/attorney-general-dept-of-law">Attorney General &amp; Dept of Law</option>
+                        		        
+                        		        <option value="2016/state/auditor-of-public-accounts">Auditor of Public Accounts</option>
+                        		        
+                        		        <option value="2016/state/board-of-accountancy">Board of Accountancy</option>
+                        		        
+                        		        <option value="2016/state/christopher-newport-university">Christopher Newport University</option>
+                        		        
+                        		        <option value="2016/state/college-of-william-mary">College of William &amp; Mary</option>
+                        		        
+                        		        <option value="2016/state/commission-on-virginia-alcohol-safety-action-program">Commission on Virginia Alcohol Safety Action Program</option>
+                        		        
+                        		        <option value="2016/state/commonwealths-attorneys-services-council">Commonwealth&#39;s Attorneys&#39; Services Council</option>
+                        		        
+                        		        <option value="2016/state/compensation-board">Compensation Board</option>
+                        		        
+                        		        <option value="2016/state/department-for-aging-and-rehabilitative-services">Department for Aging and Rehabilitative Services</option>
+                        		        
+                        		        <option value="2016/state/department-for-the-blind-and-vision-impaired">Department for the Blind and Vision Impaired</option>
+                        		        
+                        		        <option value="2016/state/department-for-the-deaf-and-hard-of-hearing">Department for the Deaf and Hard of Hearing</option>
+                        		        
+                        		        <option value="2016/state/department-of-accounts">Department of Accounts</option>
+                        		        
+                        		        <option value="2016/state/department-of-agriculture-and-consumer-services">Department of Agriculture and Consumer Services</option>
+                        		        
+                        		        <option value="2016/state/department-of-alcoholic-beverage-control">Department of Alcoholic Beverage Control</option>
+                        		        
+                        		        <option value="2016/state/department-of-aviation">Department of Aviation</option>
+                        		        
+                        		        <option value="2016/state/department-of-behavioral-health-and-developmental-services">Department of Behavioral Health and Developmental Services</option>
+                        		        
+                        		        <option value="2016/state/department-of-conservation-recreation">Department of Conservation &amp; Recreation</option>
+                        		        
+                        		        <option value="2016/state/department-of-corrections">Department of Corrections</option>
+                        		        
+                        		        <option value="2016/state/department-of-criminal-justice-services">Department of Criminal Justice Services</option>
+                        		        
+                        		        <option value="2016/state/department-of-education">Department of Education</option>
+                        		        
+                        		        <option value="2016/state/department-of-elections">Department of Elections</option>
+                        		        
+                        		        <option value="2016/state/department-of-emergency-management">Department of Emergency Management</option>
+                        		        
+                        		        <option value="2016/state/department-of-environmental-quality">Department of Environmental Quality</option>
+                        		        
+                        		        <option value="2016/state/department-of-fire-programs">Department of Fire Programs</option>
+                        		        
+                        		        <option value="2016/state/department-of-forensic-science">Department of Forensic Science</option>
+                        		        
+                        		        <option value="2016/state/department-of-forestry">Department of Forestry</option>
+                        		        
+                        		        <option value="2016/state/department-of-game-and-inland-fisheries">Department of Game and Inland Fisheries</option>
+                        		        
+                        		        <option value="2016/state/department-of-general-services">Department of General Services</option>
+                        		        
+                        		        <option value="2016/state/department-of-health">Department of Health</option>
+                        		        
+                        		        <option value="2016/state/department-of-health-professions">Department of Health Professions</option>
+                        		        
+                        		        <option value="2016/state/department-of-historic-resources">Department of Historic Resources</option>
+                        		        
+                        		        <option value="2016/state/department-of-housing-and-community-development">Department of Housing and Community Development</option>
+                        		        
+                        		        <option value="2016/state/department-of-human-resource-management">Department of Human Resource Management</option>
+                        		        
+                        		        <option value="2016/state/department-of-juvenile-justice">Department of Juvenile Justice</option>
+                        		        
+                        		        <option value="2016/state/department-of-labor-and-industry">Department of Labor and Industry</option>
+                        		        
+                        		        <option value="2016/state/department-of-medical-assistance-services">Department of Medical Assistance Services</option>
+                        		        
+                        		        <option value="2016/state/department-of-military-affairs">Department of Military Affairs</option>
+                        		        
+                        		        <option value="2016/state/department-of-mines-minerals-and-energy">Department of Mines, Minerals and Energy</option>
+                        		        
+                        		        <option value="2016/state/department-of-motor-vehicles">Department of Motor Vehicles</option>
+                        		        
+                        		        <option value="2016/state/department-of-planning-and-budget">Department of Planning and Budget</option>
+                        		        
+                        		        <option value="2016/state/department-of-professional-and-occupational-regulation">Department of Professional and Occupational Regulation</option>
+                        		        
+                        		        <option value="2016/state/department-of-rail-and-public-transportation">Department of Rail and Public Transportation</option>
+                        		        
+                        		        <option value="2016/state/department-of-small-business-and-supplier-diversity">Department of Small Business and Supplier Diversity</option>
+                        		        
+                        		        <option value="2016/state/department-of-social-services">Department of Social Services</option>
+                        		        
+                        		        <option value="2016/state/department-of-state-police">Department of State Police</option>
+                        		        
+                        		        <option value="2016/state/department-of-taxation">Department of Taxation</option>
+                        		        
+                        		        <option value="2016/state/department-of-the-treasury">Department of the Treasury</option>
+                        		        
+                        		        <option value="2016/state/department-of-transportation">Department of Transportation</option>
+                        		        
+                        		        <option value="2016/state/department-of-veterans-services">Department of Veterans Services</option>
+                        		        
+                        		        <option value="2016/state/division-of-capitol-police">Division of Capitol Police</option>
+                        		        
+                        		        <option value="2016/state/division-of-legislative-automated-systems">Division of Legislative Automated Systems</option>
+                        		        
+                        		        <option value="2016/state/division-of-legislative-services">Division of Legislative Services</option>
+                        		        
+                        		        <option value="2016/state/frontier-culture-museum-of-virginia">Frontier Culture Museum of Virginia</option>
+                        		        
+                        		        <option value="2016/state/george-mason-university">George Mason University</option>
+                        		        
+                        		        <option value="2016/state/gunston-hall-plantation">Gunston Hall Plantation</option>
+                        		        
+                        		        <option value="2016/state/indigent-defense-commission">Indigent Defense Commission</option>
+                        		        
+                        		        <option value="2016/state/james-madison-university">James Madison University</option>
+                        		        
+                        		        <option value="2016/state/jamestown-yorktown-foundation">Jamestown-Yorktown Foundation</option>
+                        		        
+                        		        <option value="2016/state/joint-legislative-audit-and-review-commission">Joint Legislative Audit and Review Commission</option>
+                        		        
+                        		        <option value="2016/state/longwood-university">Longwood University</option>
+                        		        
+                        		        <option value="2016/state/marine-resources-commission">Marine Resources Commission</option>
+                        		        
+                        		        <option value="2016/state/motor-vehicle-dealer-board">Motor Vehicle Dealer Board</option>
+                        		        
+                        		        <option value="2016/state/new-college-institute">New College Institute</option>
+                        		        
+                        		        <option value="2016/state/norfolk-state-university">Norfolk State University</option>
+                        		        
+                        		        <option value="2016/state/office-of-childrens-services">Office of Children&#39;s Services</option>
+                        		        
+                        		        <option value="2016/state/office-of-the-governor">Office of the Governor</option>
+                        		        
+                        		        <option value="2016/state/office-of-the-lieutenant-governor">Office of the Lieutenant Governor</option>
+                        		        
+                        		        <option value="2016/state/office-of-the-state-inspector-general">Office of the State Inspector General</option>
+                        		        
+                        		        <option value="2016/state/old-dominion-university">Old Dominion University</option>
+                        		        
+                        		        <option value="2016/state/radford-university">Radford University</option>
+                        		        
+                        		        <option value="2016/state/richard-bland-college-of-william-and-mary">Richard Bland College (of William and Mary)</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-administration">Secretary of Administration</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-agriculture-and-forestry">Secretary of Agriculture and Forestry</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-commerce-and-trade">Secretary of Commerce and Trade</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-education">Secretary of Education</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-finance">Secretary of Finance</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-health-and-human-resources">Secretary of Health and Human Resources</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-natural-resources">Secretary of Natural Resources</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-public-safety-and-homeland-security">Secretary of Public Safety and Homeland Security</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-technology">Secretary of Technology</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-the-commonwealth">Secretary of the Commonwealth</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-transportation">Secretary of Transportation</option>
+                        		        
+                        		        <option value="2016/state/secretary-of-veterans-and-defense-affairs">Secretary of Veterans and Defense Affairs</option>
+                        		        
+                        		        <option value="2016/state/senate-of-virginia">Senate of Virginia</option>
+                        		        
+                        		        <option value="2016/state/southern-virginia-higher-education-center">Southern Virginia Higher Education Center</option>
+                        		        
+                        		        <option value="2016/state/southwest-virginia-higher-education-center">Southwest Virginia Higher Education Center</option>
+                        		        
+                        		        <option value="2016/state/state-board-of-bar-examiners">State Board of Bar Examiners</option>
+                        		        
+                        		        <option value="2016/state/state-corporation-commission">State Corporation Commission</option>
+                        		        
+                        		        <option value="2016/state/state-council-of-higher-education-for-virginia">State Council of Higher Education for Virginia</option>
+                        		        
+                        		        <option value="2016/state/state-lottery-department">State Lottery Department</option>
+                        		        
+                        		        <option value="2016/state/the-library-of-virginia">The Library of Virginia</option>
+                        		        
+                        		        <option value="2016/state/the-science-museum-of-virginia">The Science Museum of Virginia</option>
+                        		        
+                        		        <option value="2016/state/tobacco-indemnification-and-revitalization-commission">Tobacco Indemnification and Revitalization Commission</option>
+                        		        
+                        		        <option value="2016/state/university-of-mary-washington">University of Mary Washington</option>
+                        		        
+                        		        <option value="2016/state/university-of-virginia">University of Virginia</option>
+                        		        
+                        		        <option value="2016/state/university-of-virginia-medical-center">University of Virginia Medical Center</option>
+                        		        
+                        		        <option value="2016/state/virginia-board-for-people-with-disabilities">Virginia Board for People with Disabilities</option>
+                        		        
+                        		        <option value="2016/state/virginia-college-savings-plan">Virginia College Savings Plan</option>
+                        		        
+                        		        <option value="2016/state/virginia-commission-for-the-arts">Virginia Commission for the Arts</option>
+                        		        
+                        		        <option value="2016/state/virginia-commonwealth-university">Virginia Commonwealth University</option>
+                        		        
+                        		        <option value="2016/state/virginia-community-college-system">Virginia Community College System</option>
+                        		        
+                        		        <option value="2016/state/virginia-economic-development-partnership-authority">Virginia Economic Development Partnership Authority</option>
+                        		        
+                        		        <option value="2016/state/virginia-employment-commission">Virginia Employment Commission</option>
+                        		        
+                        		        <option value="2016/state/virginia-foundation-healthy-youth">Virginia Foundation Healthy Youth</option>
+                        		        
+                        		        <option value="2016/state/virginia-house-of-delegates">Virginia House of Delegates</option>
+                        		        
+                        		        <option value="2016/state/virginia-information-technologies-agency">Virginia Information Technologies Agency</option>
+                        		        
+                        		        <option value="2016/state/virginia-israel-advisory-board">Virginia Israel Advisory Board</option>
+                        		        
+                        		        <option value="2016/state/virginia-military-institute">Virginia Military Institute</option>
+                        		        
+                        		        <option value="2016/state/virginia-museum-of-fine-arts">Virginia Museum of Fine Arts</option>
+                        		        
+                        		        <option value="2016/state/virginia-museum-of-natural-history">Virginia Museum of Natural History</option>
+                        		        
+                        		        <option value="2016/state/virginia-parole-board">Virginia Parole Board</option>
+                        		        
+                        		        <option value="2016/state/virginia-polytechnic-institute-and-state-university-virginia-tech">Virginia Polytechnic Institute and State University (Virginia Tech)</option>
+                        		        
+                        		        <option value="2016/state/virginia-port-authority">Virginia Port Authority</option>
+                        		        
+                        		        <option value="2016/state/virginia-racing-commission">Virginia Racing Commission</option>
+                        		        
+                        		        <option value="2016/state/virginia-retirement-system">Virginia Retirement System</option>
+                        		        
+                        		        <option value="2016/state/virginia-state-bar">Virginia State Bar</option>
+                        		        
+                        		        <option value="2016/state/virginia-state-university">Virginia State University</option>
+                        		        
+                        		        <option value="2016/state/virginia-tourism-authority">Virginia Tourism Authority</option>
+                        		        
+                        		        <option value="2016/state/virginia-workers-compensation-commission">Virginia Workers&#39; Compensation Commission</option>
+                        		        
+                       			</select>
+				<br />
+				<h4><i class="fa fa-search"></i> Name search</h4>
+		                        <form action="/salaries/search" method="GET">
+			                        <input type="search" class="form-control" name="q" value="" placeholder="Search for a name">
+        		                </form>
+
+</div><!-- end well -->
+
+		
+		
+			</div><!-- end col-md-4 -->
+
+		</div><!-- end container -->
+
+
+
+
+</body>
+
+    
+
+	<!-- Bootstrap core JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		
+
+		
+		<!-- The Omniture tag is on the template pages. That allows us to customize the pageName variable. -->
+<!-- Google Analytics tag -->
+
+<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-34284965-3', 'auto');
+		ga('send', 'pageview');
+</script>
+		
+		
+	
+
+
+<!-- Added nonsalary by copying the bonus_allowances and changing the text. -->
+<script>
+var pay = [ {'name': 'Base salary', 'amount': 188749 }, {'name': 'Additional compensation', 'amount': 15000 }, {'name': 'Non-state salary', 'amount': 371081 }, {'name': 'Deferred compensation', 'amount': 180000 } ];
+
+var template = _.template($( "#pay_temp" ).html());            
+$('#bars').html(template( pay ));
+
+function getPct(part, whole) {
+	return (part / whole) * 100;
+}
+            
+function addCommas(nStr)
+    {
+        nStr += '';
+        x = nStr.split('.');
+        x1 = x[0];
+        x2 = x.length > 1 ? '.' + x[1] : '';
+        var rgx = /(\d+)(\d{3})/;
+        while (rgx.test(x1)) {
+            x1 = x1.replace(rgx, '$1' + ',' + '$2');
+            }
+        return x1 + x2;
+    };
+
+
+
+</script>
+
+
+<!-- Google Analytics tag -->
+
+<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-34284965-3', 'auto');
+		ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+
+<!-- Code for Omniture -->
+
+<script type="text/javascript" src="http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/live/global/resources/scripts/_adobe/s_code.js?_dc=1414160741"></script>
+
+<script type="text/javascript">//<![CDATA[
+    var timePartCheckCount = 0;
+    function timePartCheck()
+    {
+        if((s) && (typeof(s.getTimeParting) != "undefined"))
+        { 
+            s.pageName = "data-center:salaries-virginia-state-employees-2014 - Teresa Sullivan - 2016_University of Virginia";
+            s.channel = "data-center";
+            s.prop1 = "data-center:salaries-virginia-state-employees-2014";
+            s.prop2 = "data-center:salaries-virginia-state-employees-2014";
+            s.prop3 = "data-center:salaries-virginia-state-employees-2014";
+            s.prop4 = "section";
+
+            s.prop7 = s.eVar3 = s.getTimeParting('h', '-7');
+            s.prop8 = s.eVar4 = s.getTimeParting('d', '-7');
+            s.prop9 = s.eVar5 = s.getTimeParting('w', '-7');
+            
+            s.t();
+        }
+	else
+	{
+            if (timePartCheckCount < 5)
+            {
+                timePartCheckCount++;
+                setTimeout(function(){timePartCheck();},1000)
+            }
+	}
+    }
+
+    timePartCheck();
+//]]></script>
+
+
+
+
+
+
+	
+	<div style="background: #333; padding: 20px 0;" id="blox-footer" >
+<div class="container" style="width: 940px; margin: 0 auto;">
+<style>
+	div.blox-bottom-block-holder ul { list-style: none; padding-left: 0;  }
+</style>
+<div class="blox-bottom-block-holder">
+		<div class="footer-section-block start" style="float: left; width: 200px; border-right: 1px solid #484848; height: 400px;">
+			<h4>Sections</h4>
+			<ul>
+                            <li><a href="http://www.richmond.com/">Home</a></li>
+                            <li><a href="http://www.richmond.com/news/">News</a></li>
+                            <li><a href="http://www.richmond.com/business/">Business</a></li>
+                            <li><a href="http://www.richmond.com/entertainment/">Entertainment</a></li>
+                            <li><a href="http://www.richmond.com/calendar/">Events Calendar</a></li>
+                            <li><a href="http://www.richmond.com/food-drink/">Food &amp; Drink</a></li>
+                            <li><a href="http://www.richmond.com/sports/">Sports</a></li>
+                            <li><a href="http://www.richmond.com/outdoors/">Outdoors</a></li>
+                            <li><a href="http://www.richmond.com/viewpoints/">Viewpoints/Opinion</a></li>
+                            <li><a href="http://www.richmond.com/all-sections/">All Sections</a></li>
+			</ul>
+			<h4 style="margin-top:15px">Classifieds </h4>
+			<ul>
+                            <li><a href="http://www.richmond.com/classifieds/other/ads/?sd=desc&amp;s=f_int_year">Today's Print Ads</a></li>
+                            <li><a href="http://www.richmond.com/classifieds/">Classifieds</a></li>
+                            <li><a href="http://www.richmond.com/richmond-drives/">Automotive</a></li>
+                            <li><a href="http://www.richmond.com/realestate/?mode=list">Real Estate</a></li>
+                            <li><a href="http://www.jobs.richmond.com/">Employment</a></li>
+                            <li><a href="http://www.richmond.com/marketplace/">Find Local</a></li>
+			</ul>                    
+                        
+		</div>
+		<div class="footer-section-block" style="float: left; width: 200px; border-right: 1px solid #484848; height: 400px;">
+			<h4>Services</h4>
+			<ul>
+                            <li><a href="http://www.richmond.com/advertise/">Advertise With Us</a></li>
+                            <li><a href="http://www.richmond.com/contact-us/">Contact Us</a></li>
+                            <li><a href="http://www.richmond.com/marketplace/">Business Directory</a></li>
+                            <li><a href="http://timesdispatch.mycapture.com/mycapture/index.asp">Buy Photos</a></li>
+                            <li><a href="http://richmond.upickem.net/engine/Registration.aspx?contestid=75257">Email Newsletters</a></li>
+                            <li><a href="https://subscribe.timesdispatch.com/authenticate.htm">Subscription Services</a></li>
+                            <li><a href="http://www.timesdispatchshop.com/Default.asp">Shop Our Products</a></li>
+                            <li><a href="http://www.richmond.com/services/popmount/">PopMounts &amp; Reprints</a></li>
+                            <li><a href="http://www.richmond.com/copyright/">Want to use our content?</a></li>
+                            <li><a href="https://bhmedia.silkroad.com/epostings/">Work with us</a></li>
+			</ul>
+                        <h4 style="margin-top:15px">All Access</h4>
+			<ul>
+                            <li><a href="http://www.richmond.com/all-access/">Sign Up</a></li>
+                            <li><a href="http://www.richmond.com/subscriber-services/">Manage Subscription</a></li>
+                            <li><a href="http://www.richmond.com/eedition/">E-Edition</a></li>
+                            <li><a href="https://richmond-dot-com.bloxcms-ny1.com/users/admin/profile/password/">Change Password</a></li>
+                            <li><a href="https://richmond-dot-com.bloxcms-ny1.com/contact-us/forms/online-products">Report an Issue</a></li>
+			</ul>
+		</div>
+		<div class="footer-section-block contact" style="float: left; width: 200px; border-right: 1px solid #484848; height: 400px;">
+		<h4>Contact us</h4>
+        	<p>
+            	Phone number: 804-649-6000<br>
+            	
+            	Address: 300 E. Franklin St.<br>
+				Richmond, VA 23219</p>
+                <h4>Social</h4>
+                  <p>
+                    </p><div class="social-footer">
+                      <a href="https://twitter.com/rtdnews" class="twter" rel="external" target="_blank"></a>
+                      <a href="https://www.facebook.com/TimesDispatch" class="fbook" rel="external" target="_blank"></a>
+                    </div>
+                  <p></p>
+		</div>
+
+
+        
+
+            <div class="clear"></div>
+        
+	</div>
+	<div style="clear: both;"></div>
+	
+</div>
+</div>
+	
+	<div style="background: #212121;">
+	<div class="container">
+		<p class="copyright" style="text-align: center;"><strong><a href="http://www.richmond.com/">Richmond Times-Dispatch</a>, Richmond, VA &copy;  2016 BH Media Group, Inc</strong>.</p>
+	</div>
+	</div>
+    
+</html>
